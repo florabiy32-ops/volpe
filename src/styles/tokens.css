@@ -1,0 +1,35 @@
+:root {
+  /* Marrom */
+  --brown-900: #3a2621;
+  --brown-700: #4e342e; /* principal */
+  --brown-600: #5c3d32;
+  --brown-500: #6d4c41;
+  --brown-300: #a1887f;
+  /* Caramelo */
+  --caramel-700: #a8733f;
+  --caramel-500: #c68e5b; /* principal */
+  --caramel-300: #dba876;
+  --caramel-200: #e6c4a0;
+  /* Creme */
+  --cream-600: #ead7c0; /* principal (bordas, cards de destaque) */
+  --cream-400: #f1e1cb; /* fundo das telas */
+  --cream-200: #f8ede0; /* campos */
+  --cream-100: #fdf6ec;
+  --cream-50: #fffaf3;
+  /* Texto */
+  --text: #4e342e;
+  --text-soft: #93715f;
+  --text-faint: #c1a693;
+  --danger: #b3412f;
+  --success: #6a8a53;
+
+  --radius-sm: 10px;
+  --radius: 16px;
+  --radius-lg: 22px;
+  --radius-pill: 999px;
+  --shadow-sm: 0 2px 8px rgba(78, 52, 46, 0.07);
+  --shadow: 0 8px 24px rgba(78, 52, 46, 0.1);
+
+  --font-display: 'Quicksand', system-ui, sans-serif; /* títulos, botões, wordmark */
+  --font-body: 'Nunito', system-ui, sans-serif; /* textos, campos */
+}
